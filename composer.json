@@ -1,0 +1,20 @@
+{
+    "name": "guoyandong/filter_word_data",
+    "description": "敏感词库",
+    "keywords": ["filter_word_data","敏感词库", "词库"],
+    "homepage": "https://guoyandong.cn/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "靓仔",
+            "email": "guo_liangzai@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FilterWordData\\": "src"
+        }
+    }
+}
